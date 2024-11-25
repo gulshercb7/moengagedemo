@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9588845294",
+    "project_id": "moengagedemo-5406b",
+    "storage_bucket": "moengagedemo-5406b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9588845294:android:ca8e86ecac6b016b3f21ff",
+        "android_client_info": {
+          "package_name": "com.moengagedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVs9fP1Jdq9ECEFa0D1IJR7O3nIiDZQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

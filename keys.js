@@ -1,0 +1,1 @@
+export const MOENGAGE_KEY = "Your moengage id"
